@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-html,body {
+html, body {
     height: 100%;
     overflow: hidden;
 }
@@ -17,15 +17,14 @@ body {
     font-size: 1rem;
     line-height: 1.58;
     color: #333;
-   /*  background-color: #f4f4f4; */
+    /*  background-color: #f4f4f4; */
     height: 100%;
 
 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body:before {
@@ -34,7 +33,7 @@ body:before {
     position: absolute;
     top: 0;
     left: 0;
-    background: 18.jpg;
+    background: 18 . jpg;
     content: "";
     z-index: 0;
 }
